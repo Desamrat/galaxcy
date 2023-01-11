@@ -2,3 +2,4 @@ This is Aminul islam Samrat.
 I'm gonna learning web development .
 Now i'm learning git and github.
 I already learned  html and css.
+background align is  perfectly set with the right side & solving the issues number #2.
